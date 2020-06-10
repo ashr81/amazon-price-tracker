@@ -9,9 +9,8 @@
   "author": "Sebastian Marulanda",
   "license": "ISC",
   "dependencies": {
-      "request": "*",
-      "prompt": "*",
-      "cheerio": "*",
-      "pushbullet": "*"
+    "node-html-parser": "^1.2.19",
+    "pushbullet": "*",
+    "request": "*"
   }
 }
